@@ -1,3 +1,14 @@
+# Software / Development Resources
+
+* [Overview of Google Developers](https://developers.google.com/cardboard/overview) resources for Cardboard App Programming including: 
+ * Android SDK
+ * Unity SDK
+ * Cardboard Design Best Practices
+
+* [Unity](https://unity3d.com/) -- the 3D game engine
+
+* The [Unity Asset Store](https://www.assetstore.unity3d.com/en/) will be your friend: here you can download (free / buy) assets (landscapes, buildings, materials, vegetation, characters) etc. that you can use in your VR space.
+
 # Tutorials
 
 ## Cardboard App Programming
@@ -9,3 +20,20 @@
 * Youtube Video ["How to create a google cardboard app](http://www.youtube.com/watch?v=H6ME3QTRKCc)
 
 ## 3D-Design
+
+* As we suggest to use [Unity](https://unity3d.com/) for VR App Design, learning about the basic functionality of unity will be helpful.
+
+* There are many [youtube tutorials on Unity](https://www.youtube.com/results?search_query=unity+tutorial), for example:
+ * Youtube Channel [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) has some nice tutorials -- from basics to advanced.
+ *
+
+# Communities
+
+* [G+ Cardboard & VR Dev Community](https://plus.google.com/communities/111524380182206513071)
+* [Stackoverflow Tag](http://stackoverflow.com/questions/tagged/google-cardboard)
+* [Cardboard reddit](https://www.reddit.com/r/GoogleCardboard/)
+* 
+
+# Example Apps
+
+If you haven't done so far: head to your App Store and search for "Virtual Reality" -- you'll find lots of great and interesting apps.
