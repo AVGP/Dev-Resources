@@ -1,6 +1,6 @@
 # Software / Development Resources
 
-* [Overview of Google Developers](https://developers.google.com/cardboard/overview) resources for Cardboard App Programming including: 
+* [Google Developers Resources](https://developers.google.com/cardboard/overview) for Cardboard App Programming including: 
  * Android SDK
  * Unity SDK
  * Cardboard Design Best Practices
@@ -13,7 +13,7 @@
 
 ## Cardboard App Programming
 
-* [Cardboard Design lab App](https://play.google.com/store/apps/details?id=com.google.vr.cardboard.apps.designlab&hl=en)
+* [Cardboard Design Lab App](https://play.google.com/store/apps/details?id=com.google.vr.cardboard.apps.designlab&hl=en)
 
  "Enjoy an educational and immersive journey through principles for developing virtual reality experiences. Designing great user experiences in virtual reality is considerably different than designing for traditional 2D form factors. Virtual reality introduces a new set of physiological and ergonomic considerations to inform your design work."
  
@@ -21,11 +21,10 @@
 
 ## 3D-Design
 
-* As we suggest to use [Unity](https://unity3d.com/) for VR App Design, learning about the basic functionality of unity will be helpful.
+As we suggest to use [Unity](https://unity3d.com/) for VR App Design, learning about the basic functionality of unity will be helpful.
 
 * There are many [youtube tutorials on Unity](https://www.youtube.com/results?search_query=unity+tutorial), for example:
- * Youtube Channel [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) has some nice tutorials -- from basics to advanced.
- *
+ * Youtube Channel [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) has some nice tutorials -- from basics to advanced
 
 # Communities
 
@@ -36,4 +35,4 @@
 
 # Example Apps
 
-If you haven't done so far: head to your App Store and search for "Virtual Reality" -- you'll find lots of great and interesting apps.
+If you haven't done so far: head to your App Store and search for ["Virtual Reality"](https://play.google.com/store/search?q=virtual%20reality&c=apps&hl=en) -- you'll find lots of interesting apps.
