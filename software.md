@@ -18,3 +18,8 @@
 * import video into unity
 * import audio into unity
 * import text into unity
+
+## Web - WebVR
+
+* [WebVR boilerplate with an example of responsive WebVR](https://github.com/borismus/webvr-boilerplate)
+* [WebVR starter kit](https://github.com/povdocs/webvr-starter-kit)
